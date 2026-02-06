@@ -1,9 +1,8 @@
 Copyright (c) 2026 Henrik Krenaraj. 
 All rights reserved.
 
-This collection of short stories ("Was bleibt, wenn man geht - Geschichten aus 
-Nordalbanien über Ehre und Respekt") and all associated text files in this 
-repository are protected by copyright law.
+This collection of short stories ("Brot und Salz - Nordalbanische Begegnungen") 
+and all associated text files in this repository are protected by copyright law.
 
 The publication on GitHub serves as a digital portfolio for the literary 
 work of Henrik Krenaraj.

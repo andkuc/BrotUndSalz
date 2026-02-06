@@ -8,13 +8,13 @@ It does not shy away from the shadows that exist in Northern Albania, as they do
 Yet, among the rugged mountains, I encountered numerous individuals of such rare integrity and 
 selfless generosity that they became my personal role models.
 
-These stories are a humble attempt to capture that spirit—a glimpse into a world where, 
+These stories are a humble attempt to capture that spirit — a glimpse into a world where, 
 for the best among them, a promise weighs more than life itself. While narrative details have been 
 adapted for these pages, the core of every story is true—rooted in actual events experienced either 
 by myself or by those closest to me.
 
 Perhaps these encounters are more than just memories; they are a gentle reminder that integrity and a 
-clear moral compass are not geographical traits, but human necessities—virtues that Western Europe, 
+clear moral compass are not geographical traits, but human necessities — virtues that Western Europe, 
 amidst its complexity, would do well to rediscover.
 
 ## Table of Contents
