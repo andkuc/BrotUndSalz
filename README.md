@@ -8,9 +8,9 @@ It does not shy away from the shadows that exist in Northern Albania, as they do
 Yet, among the rugged mountains, I encountered numerous individuals of such rare integrity and 
 selfless generosity that they became my personal role models.
 
-These stories are a humble attempt to capture that spirit — a glimpse into a world where, 
+These stories are a humble attempt to capture that spirit - a glimpse into a world where, 
 for the best among them, a promise weighs more than life itself. While narrative details have been 
-adapted for these pages, the core of every story is true—rooted in actual events experienced either 
+adapted for these pages, the core of every story is true-rooted in actual events experienced either 
 by myself or by those closest to me.
 
 Perhaps these encounters are more than just memories; they are a gentle reminder that integrity and a 
@@ -20,7 +20,7 @@ amidst its complexity, would do well to rediscover.
 ## Table of Contents
 
 1. **[Der Rauch ist echt](Der_Rauch_ist_echt.md)** *In the year the state collapsed, only one currency remained stable: human dignity. "The Smoke is Real" tells of a robbery that ended with a sack of flour.*
-2. **[Das Gesetz](Das_Gesetz.md)** *"The Law" is the story of two hikers looking for water, and an old man who gave them everything—except for the truth that nearly tore him apart.*
+2. **[Das Gesetz](Das_Gesetz.md)** *"The Law" is the story of two hikers looking for water, and an old man who gave them everything - except for the truth that nearly tore him apart.*
 3. **[Das leere Lager]**
 4. **[Das zurückgegebene Wort]**
 5. **[Der Lehrer]**
