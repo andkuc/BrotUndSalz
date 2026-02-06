@@ -31,7 +31,7 @@ amidst its complexity, would do well to rediscover.
 
 ## About the Project
 
-This collection is maintained as a "living document" and the stories are drafts. New stories are added as they reach a presentable stage. The long-term goal for this project is a formal publication as a complete volume.
+This collection is maintained as a "living document" and the stories are **drafts**. New stories are added as they reach a presentable stage. The long-term goal for this project is a formal publication as a complete volume.
 
 ---
 
