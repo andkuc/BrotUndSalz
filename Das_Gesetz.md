@@ -1,6 +1,6 @@
 ---
 Title: Das Gesetz
-Author: Henrik Krenaraj
+Author: Andreas Kucher
 Category: Short Story
 ---
 

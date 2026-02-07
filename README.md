@@ -1,17 +1,17 @@
 # Brot und Salz
 ### Nordalbanische Begegnungen
-**by Henrik Krenaraj**
+**by Andreas Kucher**
 
 Written from the perspective of an outsider, this collection seeks to explore the profound 
-depths of *Nderi (Honor)*, *Respekt (Respect)*, and *Besa (The Word of Honor)*. 
+depths of *Nderi (Honor)*, *Respekt (Respect)*, and *Besa (The Word of Honor)* - not as 
+exotic myths, but as the quiet, binding force of everyday coexistence.
 It does not shy away from the shadows that exist in Northern Albania, as they do in any society. 
 Yet, among the rugged mountains, I encountered numerous individuals of such rare integrity and 
-selfless generosity that they became my personal role models.
-
+selfless generosity that they remain as timeless examples of dignity - an enduring standard of character.
 These stories are a humble attempt to capture that spirit - a glimpse into a world where, 
-for the best among them, a promise weighs more than life itself. While narrative details have been 
-adapted for these pages, the core of every story is true-rooted in actual events experienced either 
-by myself or by those closest to me.
+for the best among them, truth is not read on paper, but recognized in a single, steady gaze. 
+While narrative details have been adapted for these pages, the core of every story is true-rooted 
+in actual events experienced either by myself or by those close to me.
 
 Perhaps these encounters are more than just memories; they are a gentle reminder that integrity and a 
 clear moral compass are not geographical traits, but human necessities — virtues that Western Europe, 
@@ -42,5 +42,5 @@ All exploitation rights for the texts presented here are held exclusively by the
 ---
 
 ## Legal Notice
-© 2026 Henrik Krenaraj. All rights reserved.
+© 2026 Andreas Kucher. All rights reserved.
 Sharing **links** to these stories is highly encouraged. However, any unauthorized copying or secondary use of the texts is strictly prohibited.

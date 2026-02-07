@@ -1,11 +1,11 @@
-Copyright (c) 2026 Henrik Krenaraj. 
+Copyright (c) 2026 Andreas Kucher. 
 All rights reserved.
 
 This collection of short stories ("Brot und Salz - Nordalbanische Begegnungen") 
 and all associated text files in this repository are protected by copyright law.
 
 The publication on GitHub serves as a digital portfolio for the literary 
-work of Henrik Krenaraj.
+work of Andreas Kucher.
 
 Restrictions:
 - No part of these texts may be copied, reproduced, or distributed in any 

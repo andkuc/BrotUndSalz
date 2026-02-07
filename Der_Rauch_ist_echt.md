@@ -1,6 +1,6 @@
 ---
 Title: Der Rauch ist echt
-Author: Henrik Krenaraj
+Author: Andreas Kucher
 Category: Short Story
 ---
 
