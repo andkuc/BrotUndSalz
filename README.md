@@ -5,6 +5,7 @@
 Written from the perspective of an outsider, this collection seeks to explore the profound 
 depths of *Nderi (Honor)*, *Respekt (Respect)*, and *Besa (The Word of Honor)* - not as 
 exotic myths, but as the quiet, binding force of everyday coexistence.
+
 It does not shy away from the shadows that exist in Northern Albania, as they do in any society. 
 Yet, among the rugged mountains, I encountered numerous individuals of such rare integrity and 
 selfless generosity that they remain as timeless examples of dignity - an enduring standard of character.
